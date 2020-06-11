@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/nikhiltidke0525/nikhiltidke/_apis/build/status/nikhiltidke.ContosoAir?branchName=master)](https://dev.azure.com/nikhiltidke0525/nikhiltidke/_build/latest?definitionId=4&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
